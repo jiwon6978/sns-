@@ -29,5 +29,5 @@ public class SnsEntity {
     private String email;
 
     @NotBlank
-    private String name;
+    private String username;
 }
